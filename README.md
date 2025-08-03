@@ -46,72 +46,72 @@ For detailed package versions, see requirements.txt
 ## Project Structure
 ```
 ML_Toolkit/
-    scaler.pkl
-    rating_model.pth
-    01_housing_regression.ipynb
-    LICENSE
-    requirements.txt
-    10_BERT_Positive_Negative.ipynb
-    11_BERT_Japanese.ipynb
-    04_DNN_for_wage.ipynb
-    README.md
-    14_ChatGPT_LDA_Chinese.ipynb
-    05_preprocessing_ML.ipynb
-    02_matplotlib_masterclass.ipynb
-    08_Ordinal_Rating.ipynb
-    12_ChatGPT_API.ipynb
-    06_Pytorch_DNN_Optuna.ipynb
-    09_BERT_English.ipynb
-    13_ChatGPT_LDA.ipynb
-    03_wage_analysis_with_datasplit.ipynb
-    07_DNN_Classification_Binary.ipynb
+    01_housing_regression.ipynb 📓
+    02_matplotlib_masterclass.ipynb 📓
+    03_wage_analysis_with_datasplit.ipynb 📓
+    04_DNN_for_wage.ipynb 📓
+    05_preprocessing_ML.ipynb 📓
+    06_Pytorch_DNN_Optuna.ipynb 📓
+    07_DNN_Classification_Binary.ipynb 📓
+    08_Ordinal_Rating.ipynb 📓
+    09_BERT_English.ipynb 📓
+    10_BERT_Positive_Negative.ipynb 📓
+    11_BERT_Japanese.ipynb 📓
+    12_ChatGPT_API.ipynb 📓
+    13_ChatGPT_LDA.ipynb 📓
+    14_ChatGPT_LDA_Chinese.ipynb 📓
+    LICENSE 📄
+    README.md 📄
+    rating_model.pth 🧠
+    requirements.txt 📄
+    scaler.pkl 🧠
     Appendix/
-        Dropout.ipynb
-        model_rss_comparison.png
-        Python_Introduction.ipynb
-        Pandas_Comprehensive_Tutorial_With_Exercises.ipynb
-        Rename_with_No.py 🐍
-        Transformer_Attention_Chinese.ipynb
-        wage_prediction_performance.png
-        input.txt
+        Divide_word.ipynb 📓
+        Dropout.ipynb 📓
+        Pandas_Comprehensive_Tutorial_With_Exercises.ipynb 📓
+        Python_Introduction.ipynb 📓
         Python_Introduction.py 🐍
-        Divide_word.ipynb
-        Transformer_Attention_English.ipynb
-        wage_analysis_data_generation.ipynb
-        train_val_comparison.png
-        nn_performance.png
-        jp_text_sentence_wordcount.ipynb
-    tools/
-        generate_structure.py 🐍
-        README.md
-    Notes/
-        Binary_Selection.pdf
-        Ordinal_Rating_DNN.tex
-        Ordinal_Rating_DNN.pdf
-        How to Start PyCharm with Anaconda.docx
-        Binary_Selection.tex
-        How to Start PyCharm with Anaconda.pdf
-        BERT_Embedding.pdf
-        Principal of Neural Network.pdf
-        BERT_and_transformer_Bearmer.pdf
-        BERT_and_transformer_Bearmer.tex
-        BERT_Embedding.tex
-    Figures/
-        code_01.png
-        pasted1.eps
-        code_01.pdf
-        pasted1.png
+        Rename_with_No.py 🐍
+        Transformer_Attention_Chinese.ipynb 📓
+        Transformer_Attention_English.ipynb 📓
+        input.txt 📄
+        jp_text_sentence_wordcount.ipynb 📓
+        model_rss_comparison.png 📄
+        nn_performance.png 📄
+        train_val_comparison.png 📄
+        wage_analysis_data_generation.ipynb 📓
+        wage_prediction_performance.png 📄
     DATA/
-        ex_housing.csv
-        wage_train_val.csv
-        raw_regression_data.csv
-        CAPM02.csv
-        regression_data.csv
-        wage_test_X.csv
-        wage_data.csv
-        DATA01.csv
-        wage_test_Xy.csv
-        dnn_intro_data.csv
+        CAPM02.csv 📊
+        DATA01.csv 📊
+        dnn_intro_data.csv 📊
+        ex_housing.csv 📊
+        raw_regression_data.csv 📊
+        regression_data.csv 📊
+        wage_data.csv 📊
+        wage_test_X.csv 📊
+        wage_test_Xy.csv 📊
+        wage_train_val.csv 📊
+    Figures/
+        code_01.pdf 📄
+        code_01.png 📄
+        pasted1.eps 📄
+        pasted1.png 📄
+    Notes/
+        BERT_Embedding.pdf 📄
+        BERT_Embedding.tex 📄
+        BERT_and_transformer_Bearmer.pdf 📄
+        BERT_and_transformer_Bearmer.tex 📄
+        Binary_Selection.pdf 📄
+        Binary_Selection.tex 📄
+        How to Start PyCharm with Anaconda.docx 📄
+        How to Start PyCharm with Anaconda.pdf 📄
+        Ordinal_Rating_DNN.pdf 📄
+        Ordinal_Rating_DNN.tex 📄
+        Principal of Neural Network.pdf 📄
+    tools/
+        README.md 📄
+        generate_structure.py 🐍
 ```
 
-> Auto-generated on 2025-08-03 18:55:57
+> Auto-generated on 2025-08-03 19:08:34
