@@ -1,5 +1,5 @@
 # federated_server.py
-
+# run: python federated_server.py --clients 7 --rounds 10
 import socket
 import pickle
 import threading

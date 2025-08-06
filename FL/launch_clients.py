@@ -1,5 +1,5 @@
 # launch_clients.py
-
+# run: python launch_clients.py --clients 7
 import subprocess
 import time
 import argparse
