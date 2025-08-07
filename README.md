@@ -1,6 +1,6 @@
 README
 
-Author: Qiu Liu
+Author: Qiingfeng Liu
 Email: qliu.econ@gmail.com
 Affiliation: Faculty of Science and Engineering, Hosei University
 
@@ -10,7 +10,7 @@ Dataset: Original Generated Data
 License:
 MIT License
 
-Copyright (c) 2025 Qiu Liu
+Copyright (c) 2025 Qingfeng Liu
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
